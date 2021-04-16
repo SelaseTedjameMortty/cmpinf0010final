@@ -2,6 +2,8 @@
 
 Elizabeth Taylor ect26@pitt.edu
 
+Selase Tedjame-Mortty skt29@pitt.edu
+
 Trevor Silverman tls120@pitt.edu
 
 Dataset containing all of the fire incidents in the Pittsburgh area: https://data.wprdc.org/datastore/dump/8d76ac6b-5ae8-4428-82a4-043130d17b02
