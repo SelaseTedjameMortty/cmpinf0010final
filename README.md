@@ -15,3 +15,13 @@ We measured safety through the occurrences of arrests and fire per 1000 people. 
 
 
 We measured affordability through the average household income of the neighborhood. Our logic was that an area with high household income would meet that level by having more expensive homes, goods, etc. Therefore, areas with lower household income would be more affordable to live in.
+
+## Sources
+### aggregate income/population datasets
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data
+
+### arrests dataset
+https://data.wprdc.org/dataset/arrest-data
+
+### Fire Incidents dataset
+https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
