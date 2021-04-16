@@ -1,8 +1,0 @@
-Intro
-We chose to analyze the "bestness" of Pittsburgh neighborhoods based on the metric of safety. Our first data set was based on the arrest data of the Pittsburgh area. The selected dataset provided quantitative information such as age, date, and time, as well as categorical data such as race, gender, and descriptions of the infractions. Our other dataset was of the fire incidents in the Pittsburgh area. This dataset provided quantitative data such as the date, time, and number of alarms, as well as the categorical data of the fire type description.
-
-Metric
-As previously mentioned we defined our metric to be safety in regards to crime rates and incidents of fire. We believe fire is an indicator of safety because it can provide a lot of inferred data on the quality and maintenance of housing in the area as well as potential environmental threats. In terms of crime rates, we believe that knowing the amounts of arrests in a given area, especially in regards to population, is indicative on the general safety of the community.
-
-Conclusion
-After analyzing our datasets we have come to the conclusion that North Oakland is the "best" neighborhood in Pittsburgh. Looking at the arrests data, Central Northside appeared to be the safest neighborhood in terms of having the least amount of arrests. In regards to the fire data, Regent Square appeared to be the safest neighborhood having the least amount of fire incidents. After combining our datasets we decided that North Oakland is the neighborhood that best satisfies our metric for "bestness".
